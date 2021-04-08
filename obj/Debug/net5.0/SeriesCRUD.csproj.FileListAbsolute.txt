@@ -1,0 +1,16 @@
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/bin/Debug/net5.0/SeriesCRUD
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/bin/Debug/net5.0/SeriesCRUD.deps.json
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/bin/Debug/net5.0/SeriesCRUD.runtimeconfig.json
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/bin/Debug/net5.0/SeriesCRUD.runtimeconfig.dev.json
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/bin/Debug/net5.0/SeriesCRUD.dll
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/bin/Debug/net5.0/ref/SeriesCRUD.dll
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/bin/Debug/net5.0/SeriesCRUD.pdb
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/obj/Debug/net5.0/SeriesCRUD.csprojAssemblyReference.cache
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/obj/Debug/net5.0/SeriesCRUD.GeneratedMSBuildEditorConfig.editorconfig
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/obj/Debug/net5.0/SeriesCRUD.AssemblyInfoInputs.cache
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/obj/Debug/net5.0/SeriesCRUD.AssemblyInfo.cs
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/obj/Debug/net5.0/SeriesCRUD.csproj.CoreCompileInputs.cache
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/obj/Debug/net5.0/SeriesCRUD.dll
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/obj/Debug/net5.0/ref/SeriesCRUD.dll
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/obj/Debug/net5.0/SeriesCRUD.pdb
+/home/rafael/cursos/DIO/MRV_Bootcamp/SeriesCRUD/obj/Debug/net5.0/SeriesCRUD.genruntimeconfig.cache
